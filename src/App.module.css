@@ -1,0 +1,37 @@
+.form__root {
+  display: flex;
+  justify-content: center;
+}
+
+.username__form{
+  margin: 20pt;
+  padding: 20pt;
+  border-radius: 7pt;
+  border: 1px solid gray;
+  width: 25%;
+}
+
+.message__form{
+  padding: 20pt;
+  border-radius: 7pt;
+  border: 1px solid gray;
+  width: 35%;
+}
+
+.messages__content {
+  margin: 20pt;
+  display: flex;
+  justify-content: center;
+}
+
+.message__card {
+  margin-bottom: 9pt;
+}
+
+.message__root {
+  width: 40%;
+}
+
+.mui_input {
+  height: 30pt;
+}
